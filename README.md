@@ -1,4 +1,3 @@
-````markdown
 # 📚 BookFlow – Automation Book Publication Workflow. It's an AI-Powered Book Chapter Spinner with RL & Agentic Workflow
 
 BookFlow is an intelligent automated pipeline that:
